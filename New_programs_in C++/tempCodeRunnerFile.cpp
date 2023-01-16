@@ -1,0 +1,2 @@
+
+       cin>>pen>>pencil>>eraser;
